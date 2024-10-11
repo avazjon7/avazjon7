@@ -1,4 +1,3 @@
-Here’s a more formal and professional version:
 
 👋 Hello, I am Avazjon Anvarov, a passionate backend developer with expertise in Python and Django.
 

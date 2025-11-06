@@ -16,9 +16,6 @@
 ###
 
 <div align="center">
-  <a href="https://www.youtube.com/@tehno.maniak" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
   <a href="https://t.me/aanvarovvv" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
@@ -56,12 +53,6 @@
 - [AvtoAkbar Test Bot](https://github.com/avazjon7/avtoakbar-bot) — Telegram-бот для автошколы  
 - [avtoakbar-test.uz](https://avtoakbar-test.uz) — онлайн-платформа для тестов водителей  
 - [qrlink-tashkent.uz](https://qrlink-tashkent.uz) — сервис генерации и отслеживания QR-ссылок  
-
-###
-
-<p align="center">
-  <img width="600" src="https://raw.githubusercontent.com/avazjon7/avazjon7/main/assets/github-snake.svg" alt="snake"/>
-</p>
 
 ###
 

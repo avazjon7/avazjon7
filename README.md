@@ -2,7 +2,7 @@
 
 <!-- Динамический баннер -->
 <div align="center">
-  <img height="80" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=1000&lines=Modern+web+solutions+with+Django+%26+AI+🚀" />
+  <img height="80" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=1000&lines=Modern+web+solutions+with+Django+Python+%26+AI+🚀" />
 </div>
 
 <div align="center">
